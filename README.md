@@ -1,3 +1,2 @@
 # thietbicuahangonline-
-App bán hàng
-sss
+App bán hàng thiết bị công nghệ
